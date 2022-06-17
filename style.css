@@ -1,0 +1,66 @@
+body {
+        background-color: rgb(253, 251, 251);
+        line-height: 20px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: medium;
+}
+
+#cabecalho {
+    top: 0;
+    background-color: blueviolet;
+    position: fixed;
+    left: 0;
+    width: 100%;
+}
+
+#titulo {
+    margin-left: 15px;
+    color: aliceblue;
+}
+
+#minha_foto {
+    width: 45%;
+    float: right;
+    border: 5px solid aliceblue;
+    margin: 30px 5px;
+}
+
+#licoes_aprendidas {
+    margin: 100px 5px 30px 5px;
+}
+
+#licoes_a_aprender {
+    margin-bottom: 30px;
+}
+
+#meu-link {
+    margin-bottom: 30px;
+}
+
+#text {
+    margin-bottom: 30px;
+}
+
+#rodape {
+    background-color: blueviolet;
+    color: aliceblue;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+    font-weight: 800;
+    margin: 15px;
+}
+
+strong {
+    padding: 2px;
+    margin: 20px;
+    background-color: blueviolet;
+    color: aqua;
+}
+
+table {
+    line-height: 30px;
+}
