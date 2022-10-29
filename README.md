@@ -6,7 +6,7 @@ It was my first project made at [Trybe](https://www.betrybe.com/)! I produced a 
 
 ### Deploy 
 
-If you are interested in seeing the final result you can access by this [link](https://lessons-learned-maysa-b.vercel.app/) the final result.
+If you are interested in seeing the final result you can access it by this [link](https://lessons-learned-maysa-b.vercel.app/).
 
 ---------------
 If you see something that can be improved, please contact me! All feedback is very welcome.:sparkles:
